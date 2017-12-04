@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem3_Regexmon", "Problem3_Regexmon\Problem3_Regexmon.csproj", "{9DBE6E19-C298-42E3-A305-20DC2BF89FAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DBE6E19-C298-42E3-A305-20DC2BF89FAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DBE6E19-C298-42E3-A305-20DC2BF89FAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DBE6E19-C298-42E3-A305-20DC2BF89FAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DBE6E19-C298-42E3-A305-20DC2BF89FAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {41FA7E51-C0DE-4372-80C3-C22360441C06}
+	EndGlobalSection
+EndGlobal
