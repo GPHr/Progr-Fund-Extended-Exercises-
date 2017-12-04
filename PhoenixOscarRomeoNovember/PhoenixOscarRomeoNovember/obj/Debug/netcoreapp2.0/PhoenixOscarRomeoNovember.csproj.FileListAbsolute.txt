@@ -1,0 +1,11 @@
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\bin\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.deps.json
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\bin\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.runtimeconfig.json
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\bin\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.runtimeconfig.dev.json
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\bin\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.dll
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\bin\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.pdb
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\obj\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.csprojResolveAssemblyReference.cache
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\obj\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.csproj.CoreCompileInputs.cache
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\obj\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.AssemblyInfoInputs.cache
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\obj\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.AssemblyInfo.cs
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\obj\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.dll
+C:\Users\sokol\source\repos\PhoenixOscarRomeoNovember\PhoenixOscarRomeoNovember\obj\Debug\netcoreapp2.0\PhoenixOscarRomeoNovember.pdb
