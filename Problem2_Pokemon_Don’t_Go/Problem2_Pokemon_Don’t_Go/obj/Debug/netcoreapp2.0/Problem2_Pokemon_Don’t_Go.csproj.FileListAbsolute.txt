@@ -1,0 +1,11 @@
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\bin\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.deps.json
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\bin\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.runtimeconfig.json
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\bin\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.runtimeconfig.dev.json
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\bin\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.dll
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\bin\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.pdb
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\obj\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.csprojResolveAssemblyReference.cache
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\obj\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.csproj.CoreCompileInputs.cache
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\obj\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.AssemblyInfoInputs.cache
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\obj\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.AssemblyInfo.cs
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\obj\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.dll
+C:\Users\sokol\source\repos\Problem2_Pokemon_Don’t_Go\Problem2_Pokemon_Don’t_Go\obj\Debug\netcoreapp2.0\Problem2_Pokemon_Don’t_Go.pdb
