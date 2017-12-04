@@ -1,0 +1,11 @@
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\bin\Debug\netcoreapp2.0\⦁ Anonymous Cache.deps.json
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\bin\Debug\netcoreapp2.0\⦁ Anonymous Cache.runtimeconfig.json
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\bin\Debug\netcoreapp2.0\⦁ Anonymous Cache.runtimeconfig.dev.json
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\bin\Debug\netcoreapp2.0\⦁ Anonymous Cache.dll
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\bin\Debug\netcoreapp2.0\⦁ Anonymous Cache.pdb
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\obj\Debug\netcoreapp2.0\⦁ Anonymous Cache.csprojResolveAssemblyReference.cache
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\obj\Debug\netcoreapp2.0\⦁ Anonymous Cache.csproj.CoreCompileInputs.cache
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\obj\Debug\netcoreapp2.0\⦁ Anonymous Cache.AssemblyInfoInputs.cache
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\obj\Debug\netcoreapp2.0\⦁ Anonymous Cache.AssemblyInfo.cs
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\obj\Debug\netcoreapp2.0\⦁ Anonymous Cache.dll
+C:\Users\sokol\source\repos\⦁ Anonymous Cache\⦁ Anonymous Cache\obj\Debug\netcoreapp2.0\⦁ Anonymous Cache.pdb
