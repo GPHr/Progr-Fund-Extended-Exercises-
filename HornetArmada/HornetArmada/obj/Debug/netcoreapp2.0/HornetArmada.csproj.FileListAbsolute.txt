@@ -1,0 +1,11 @@
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.deps.json
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.runtimeconfig.json
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.runtimeconfig.dev.json
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.dll
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\bin\Debug\netcoreapp2.0\HornetArmada.pdb
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.csprojResolveAssemblyReference.cache
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.csproj.CoreCompileInputs.cache
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.AssemblyInfoInputs.cache
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.AssemblyInfo.cs
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.dll
+C:\Users\sokol\source\repos\HornetArmada\HornetArmada\obj\Debug\netcoreapp2.0\HornetArmada.pdb
