@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.ExtendedReflection">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ReferenceAssemblies\v4.5\Microsoft.ExtendedReflection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ExtendedReflection.Reasoning">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ReferenceAssemblies\v4.5\Microsoft.ExtendedReflection.Reasoning.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Pex.Framework">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ReferenceAssemblies\v4.5\Microsoft.Pex.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ReferenceAssemblies\v4.0\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.VisualStudio.TestTools.UITest.Extension">
+      <HintPath>..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\ReferenceAssemblies\v4.0\Microsoft.VisualStudio.TestTools.UITest.Extension.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
