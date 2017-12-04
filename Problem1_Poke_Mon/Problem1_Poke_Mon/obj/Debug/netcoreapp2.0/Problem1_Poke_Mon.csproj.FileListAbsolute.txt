@@ -1,0 +1,11 @@
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\bin\Debug\netcoreapp2.0\Problem1_Poke_Mon.deps.json
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\bin\Debug\netcoreapp2.0\Problem1_Poke_Mon.runtimeconfig.json
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\bin\Debug\netcoreapp2.0\Problem1_Poke_Mon.runtimeconfig.dev.json
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\bin\Debug\netcoreapp2.0\Problem1_Poke_Mon.dll
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\bin\Debug\netcoreapp2.0\Problem1_Poke_Mon.pdb
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\obj\Debug\netcoreapp2.0\Problem1_Poke_Mon.csprojResolveAssemblyReference.cache
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\obj\Debug\netcoreapp2.0\Problem1_Poke_Mon.csproj.CoreCompileInputs.cache
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\obj\Debug\netcoreapp2.0\Problem1_Poke_Mon.AssemblyInfoInputs.cache
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\obj\Debug\netcoreapp2.0\Problem1_Poke_Mon.AssemblyInfo.cs
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\obj\Debug\netcoreapp2.0\Problem1_Poke_Mon.dll
+C:\Users\sokol\source\repos\Problem1_Poke_Mon\Problem1_Poke_Mon\obj\Debug\netcoreapp2.0\Problem1_Poke_Mon.pdb
